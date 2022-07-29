@@ -1,10 +1,10 @@
-# Android Prework - *Name of App Here*
+# Android Prework - *Dami's Pre-Work*
 
 Submitted by: **Dami Oyadiran**
 
-**Name of your app** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Dami's Pre-Work** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
